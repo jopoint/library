@@ -1,0 +1,626 @@
+ID,class
+A,Allgemeines
+AA,Allgemeines
+AB,Allgemeines
+AC,Allgemeines
+AD,Allgemeines
+AE,Allgemeines
+AF,Allgemeines
+AG,Allgemeines
+AH,Allgemeines
+AI,Allgemeines
+AJ,Allgemeines
+AK,Allgemeines
+AL,Allgemeines
+AM,Allgemeines
+AN,Allgemeines
+AO,Allgemeines
+AP,Allgemeines
+AQ,Allgemeines
+AR,Allgemeines
+AS,Allgemeines
+AT,Allgemeines
+AU,Allgemeines
+AV,Allgemeines
+AW,Allgemeines
+AX,Allgemeines
+AY,Allgemeines
+AZ,Allgemeines
+BA,Theologie und Religionswissenschaften
+BB,Theologie und Religionswissenschaften
+BC,Theologie und Religionswissenschaften
+BD,Theologie und Religionswissenschaften
+BE,Theologie und Religionswissenschaften
+BF,Theologie und Religionswissenschaften
+BG,Theologie und Religionswissenschaften
+BH,Theologie und Religionswissenschaften
+BI,Theologie und Religionswissenschaften
+BJ,Theologie und Religionswissenschaften
+BK,Theologie und Religionswissenschaften
+BL,Theologie und Religionswissenschaften
+BM,Theologie und Religionswissenschaften
+BN,Theologie und Religionswissenschaften
+BO,Theologie und Religionswissenschaften
+BP,Theologie und Religionswissenschaften
+BQ,Theologie und Religionswissenschaften
+BR,Theologie und Religionswissenschaften
+BS,Theologie und Religionswissenschaften
+BT,Theologie und Religionswissenschaften
+BU,Theologie und Religionswissenschaften
+BV,Theologie und Religionswissenschaften
+BW,Theologie und Religionswissenschaften
+BX,Theologie und Religionswissenschaften
+BY,Theologie und Religionswissenschaften
+BZ,Theologie und Religionswissenschaften
+B,Theologie und Religionswissenschaften
+CA,Philosophie
+CB,Philosophie
+CC,Philosophie
+CD,Philosophie
+CE,Philosophie
+CF,Philosophie
+CG,Philosophie
+CH,Philosophie
+CI,Philosophie
+CJ,Philosophie
+CK,Philosophie
+CL,Psychologie
+CM,Psychologie
+CN,Psychologie
+CO,Psychologie
+CP,Psychologie
+CQ,Psychologie
+CR,Psychologie
+CS,Psychologie
+CT,Psychologie
+CU,Psychologie
+CV,Psychologie
+CW,Psychologie
+CX,Psychologie
+CY,Psychologie
+CZ,Psychologie
+DA,Pädagogik
+DB,Pädagogik
+DC,Pädagogik
+DD,Pädagogik
+DF,Pädagogik
+DG,Pädagogik
+DH,Pädagogik
+DI,Pädagogik
+DJ,Pädagogik
+DK,Pädagogik
+DL,Pädagogik
+DM,Pädagogik
+DN,Pädagogik
+DO,Pädagogik
+DP,Pädagogik
+DQ,Pädagogik
+DR,Pädagogik
+DS,Pädagogik
+DT,Pädagogik
+DU,Pädagogik
+DV,Pädagogik
+DW,Pädagogik
+DX,Pädagogik
+DY,Pädagogik
+DZ,Pädagogik
+D,Pädagogik
+EA,Sprachwissenschaften
+EB,Sprachwissenschaften
+EC,Sprachwissenschaften
+ED,Sprachwissenschaften
+EE,Sprachwissenschaften
+EF,Sprachwissenschaften
+EG,Sprachwissenschaften
+EH,Sprachwissenschaften
+EI,Sprachwissenschaften
+EJ,Sprachwissenschaften
+EK,Sprachwissenschaften
+EL,Sprachwissenschaften
+EM,Sprachwissenschaften
+EN,Sprachwissenschaften
+EO,Sprachwissenschaften
+EP,Sprachwissenschaften
+EQ,Sprachwissenschaften
+ER,Sprachwissenschaften
+ES,Sprachwissenschaften
+ET,Sprachwissenschaften
+EU,Sprachwissenschaften
+EV,Sprachwissenschaften
+EW,Sprachwissenschaften
+EX,Sprachwissenschaften
+EY,Sprachwissenschaften
+EZ,Sprachwissenschaften
+E,Sprachwissenschaften
+FA,Philologie
+FB,Philologie
+FC,Philologie
+FD,Philologie
+FE,Philologie
+FF,Philologie
+FG,Philologie
+FH,Philologie
+FI,Philologie
+FJ,Philologie
+FK,Philologie
+FL,Philologie
+FM,Philologie
+FN,Philologie
+FO,Philologie
+FP,Philologie
+FQ,Philologie
+FR,Philologie
+FS,Philologie
+FT,Philologie
+FU,Philologie
+FV,Philologie
+FW,Philologie
+FX,Philologie
+FY,Philologie
+FZ,Philologie
+F,Philologie
+GA,Sprachwissenschaften
+GB,Sprachwissenschaften
+GC,Sprachwissenschaften
+GD,Sprachwissenschaften
+GE,Sprachwissenschaften
+GF,Sprachwissenschaften
+GG,Sprachwissenschaften
+GH,Sprachwissenschaften
+GI,Sprachwissenschaften
+GJ,Sprachwissenschaften
+GK,Sprachwissenschaften
+GL,Sprachwissenschaften
+GM,Sprachwissenschaften
+GN,Sprachwissenschaften
+GO,Sprachwissenschaften
+GP,Sprachwissenschaften
+GQ,Sprachwissenschaften
+GR,Sprachwissenschaften
+GS,Sprachwissenschaften
+GT,Sprachwissenschaften
+GU,Sprachwissenschaften
+GV,Sprachwissenschaften
+GW,Sprachwissenschaften
+GX,Sprachwissenschaften
+GY,Sprachwissenschaften
+GZ,Sprachwissenschaften
+G,Sprachwissenschaften
+HA,Sprachwissenschaften
+HB,Sprachwissenschaften
+HC,Sprachwissenschaften
+HD,Sprachwissenschaften
+HE,Sprachwissenschaften
+HF,Sprachwissenschaften
+HG,Sprachwissenschaften
+HH,Sprachwissenschaften
+HI,Sprachwissenschaften
+HJ,Sprachwissenschaften
+HK,Sprachwissenschaften
+HL,Sprachwissenschaften
+HM,Sprachwissenschaften
+HN,Sprachwissenschaften
+HO,Sprachwissenschaften
+HP,Sprachwissenschaften
+HQ,Sprachwissenschaften
+HR,Sprachwissenschaften
+HS,Sprachwissenschaften
+HT,Sprachwissenschaften
+HU,Sprachwissenschaften
+HV,Sprachwissenschaften
+HW,Sprachwissenschaften
+HX,Sprachwissenschaften
+HY,Sprachwissenschaften
+HZ,Sprachwissenschaften
+H,Sprachwissenschaften
+IA,Sprachwissenschaften
+IB,Sprachwissenschaften
+IC,Sprachwissenschaften
+ID,Sprachwissenschaften
+IF,Sprachwissenschaften
+IG,Sprachwissenschaften
+IH,Sprachwissenschaften
+II,Sprachwissenschaften
+IJ,Sprachwissenschaften
+IK,Sprachwissenschaften
+IL,Sprachwissenschaften
+IM,Sprachwissenschaften
+IN,Sprachwissenschaften
+IO,Sprachwissenschaften
+IP,Sprachwissenschaften
+IQ,Sprachwissenschaften
+IR,Sprachwissenschaften
+IS,Sprachwissenschaften
+IT,Sprachwissenschaften
+IU,Sprachwissenschaften
+IV,Sprachwissenschaften
+IW,Sprachwissenschaften
+IX,Sprachwissenschaften
+IY,Sprachwissenschaften
+IZ,Sprachwissenschaften
+I,Sprachwissenschaften
+KA,Sprachwissenschaften
+KB,Sprachwissenschaften
+KC,Sprachwissenschaften
+KD,Sprachwissenschaften
+KE,Sprachwissenschaften
+KF,Sprachwissenschaften
+KG,Sprachwissenschaften
+KH,Sprachwissenschaften
+KI,Sprachwissenschaften
+KJ,Sprachwissenschaften
+KK,Sprachwissenschaften
+KL,Sprachwissenschaften
+KM,Sprachwissenschaften
+KN,Sprachwissenschaften
+KO,Sprachwissenschaften
+KP,Sprachwissenschaften
+KQ,Sprachwissenschaften
+KR,Sprachwissenschaften
+KS,Sprachwissenschaften
+KT,Sprachwissenschaften
+KU,Sprachwissenschaften
+KV,Sprachwissenschaften
+KW,Sprachwissenschaften
+KX,Sprachwissenschaften
+KY,Sprachwissenschaften
+KZ,Sprachwissenschaften
+K,Sprachwissenschaften
+LA,Ethnologie
+LB,Ethnologie
+LC,Ethnologie
+LD,Archäologie
+LE,Archäologie
+LF,Archäologie
+LG,Archäologie
+LH,Kunstgeschichte
+LI,Kunstgeschichte
+LJ,Kunstgeschichte
+LK,Kunstgeschichte
+LL,Kunstgeschichte
+LM,Kunstgeschichte
+LN,Kunstgeschichte
+LO,Kunstgeschichte
+LP,Musikwissenschaft
+LQ,Musikwissenschaft
+LR,Musikwissenschaft
+LS,Musikwissenschaft
+LT,Musikwissenschaft
+LU,Musikwissenschaft
+LV,Musikwissenschaft
+LW,Musikwissenschaft
+LX,Musikwissenschaft
+LY,Musikwissenschaft
+MA,Politologie
+MB,Politologie
+MC,Politologie
+MD,Politologie
+ME,Politologie
+MF,Politologie
+MG,Politologie
+MH,Politologie
+MI,Politologie
+MJ,Politologie
+MK,Politologie
+ML,Politologie
+MM,Soziologie
+MN,Soziologie
+MO,Soziologie
+MP,Soziologie
+MQ,Soziologie
+MR,Soziologie
+MS,Soziologie
+MT,Gesundheitswissenschaften
+MX,Militärwissenschaft
+MY,Militärwissenschaft
+MZ,Militärwissenschaft
+NA,Geschichte
+NB,Geschichte
+NC,Geschichte
+ND,Geschichte
+NE,Geschichte
+NF,Geschichte
+NG,Geschichte
+NH,Geschichte
+NI,Geschichte
+NJ,Geschichte
+NK,Geschichte
+NL,Geschichte
+NM,Geschichte
+NN,Geschichte
+NO,Geschichte
+NP,Geschichte
+NQ,Geschichte
+NR,Geschichte
+NS,Geschichte
+NT,Geschichte
+NU,Geschichte
+NV,Geschichte
+NW,Geschichte
+X ,Geschichte
+NY,Geschichte
+NZ,Geschichte
+N,Geschichte
+PA,Rechtswissenschaft
+PB,Rechtswissenschaft
+PC,Rechtswissenschaft
+PD,Rechtswissenschaft
+PE,Rechtswissenschaft
+PF,Rechtswissenschaft
+PG,Rechtswissenschaft
+PH,Rechtswissenschaft
+PI,Rechtswissenschaft
+PJ,Rechtswissenschaft
+PK,Rechtswissenschaft
+PL,Rechtswissenschaft
+PM,Rechtswissenschaft
+PN,Rechtswissenschaft
+PO,Rechtswissenschaft
+PP,Rechtswissenschaft
+PQ,Rechtswissenschaft
+PR,Rechtswissenschaft
+PS,Rechtswissenschaft
+PT,Rechtswissenschaft
+PU,Rechtswissenschaft
+PV,Rechtswissenschaft
+PW,Rechtswissenschaft
+PX,Rechtswissenschaft
+PY,Rechtswissenschaft
+PZ,Rechtswissenschaft
+P,Rechtswissenschaft
+QA,Wirtschaftswissenschaften
+QB,Wirtschaftswissenschaften
+QC,Wirtschaftswissenschaften
+QD,Wirtschaftswissenschaften
+QE,Wirtschaftswissenschaften
+QF,Wirtschaftswissenschaften
+QG,Wirtschaftswissenschaften
+QH,Wirtschaftswissenschaften
+QI,Wirtschaftswissenschaften
+QJ,Wirtschaftswissenschaften
+QK,Wirtschaftswissenschaften
+QL,Wirtschaftswissenschaften
+QM,Wirtschaftswissenschaften
+QN,Wirtschaftswissenschaften
+QO,Wirtschaftswissenschaften
+QP,Wirtschaftswissenschaften
+QQ,Wirtschaftswissenschaften
+QR,Wirtschaftswissenschaften
+QS,Wirtschaftswissenschaften
+QT,Wirtschaftswissenschaften
+QU,Wirtschaftswissenschaften
+QV,Wirtschaftswissenschaften
+QW,Wirtschaftswissenschaften
+QX,Wirtschaftswissenschaften
+QY,Wirtschaftswissenschaften
+QZ,Wirtschaftswissenschaften
+Q,Wirtschaftswissenschaften
+RA,Geographie
+RB,Geographie
+RC,Geographie
+RD,Geographie
+RE,Geographie
+RF,Geographie
+RG,Geographie
+RH,Geographie
+RI,Geographie
+RJ,Geographie
+RK,Geographie
+RL,Geographie
+RM,Geographie
+RN,Geographie
+RO,Geographie
+RP,Geographie
+RQ,Geographie
+RR,Geographie
+RS,Geographie
+RT,Geographie
+RU,Geographie
+RV,Geographie
+RW,Geographie
+RX,Geographie
+RY,Geographie
+RZ,Geographie
+R,Geographie
+SA,Mathematik
+SB,Mathematik
+SC,Mathematik
+SD,Mathematik
+SE,Mathematik
+SF,Mathematik
+SG,Mathematik
+SH,Mathematik
+SI,Mathematik
+SJ,Mathematik
+SK,Mathematik
+SL,Mathematik
+SM,Mathematik
+SN,Mathematik
+SO,Mathematik
+SP,Mathematik
+SQ,Informatik
+SR,Informatik
+SS,Informatik
+ST,Informatik
+SU,Informatik
+TA,Allgemeine Naturwissenschaft
+TB,Allgemeine Naturwissenschaft
+TC,Allgemeine Naturwissenschaft
+TD,Allgemeine Naturwissenschaft
+TE,Geologie und Paläontologie
+TF,Geologie und Paläontologie
+TG,Geologie und Paläontologie
+TH,Geologie und Paläontologie
+TI,Geologie und Paläontologie
+TJ,Geologie und Paläontologie
+TK,Geologie und Paläontologie
+TL,Geologie und Paläontologie
+TM,Geologie und Paläontologie
+TN,Geologie und Paläontologie
+TO,Geologie und Paläontologie
+TP,Geologie und Paläontologie
+TQ,Geologie und Paläontologie
+TR,Geologie und Paläontologie
+TS,Geologie und Paläontologie
+TT,Geologie und Paläontologie
+TU,Geologie und Paläontologie
+TV,Geologie und Paläontologie
+TW,Geologie und Paläontologie
+TX,Geologie und Paläontologie
+TY,Geologie und Paläontologie
+TZ,Geologie und Paläontologie
+UA,Physik
+UB,Physik
+UC,Physik
+UD,Physik
+UE,Physik
+UF,Physik
+UG,Physik
+UH,Physik
+UI,Physik
+UJ,Physik
+UK,Physik
+UL,Physik
+UM,Physik
+UN,Physik
+UO,Physik
+UP,Physik
+UQ,Physik
+UR,Physik
+US,Physik
+UT,Physik
+UU,Physik
+UV,Physik
+UW,Physik
+UX,Physik
+UY,Physik
+UZ,Physik
+U,Physik
+VA,Chemie
+VB,Chemie
+VC,Chemie
+VD,Chemie
+VE,Chemie
+VF,Chemie
+VG,Chemie
+VH,Chemie
+VI,Chemie
+VJ,Chemie
+VK,Chemie
+VL,Chemie
+VM,Chemie
+VN,Chemie
+VO,Chemie
+VP,Chemie
+VQ,Chemie
+VR,Chemie
+VS,Chemie
+VT,Chemie
+VU,Chemie
+VV,Chemie
+VW,Chemie
+VX,Chemie
+VY,Chemie
+VZ,Chemie
+V,Chemie
+WA,Biologie
+WB,Biologie
+WC,Biologie
+WD,Biologie
+WE,Biologie
+WF,Biologie
+WG,Biologie
+WH,Biologie
+WI,Biologie
+WJ,Biologie
+WK,Biologie
+WL,Biologie
+WM,Biologie
+WN,Biologie
+WO,Biologie
+WP,Biologie
+WQ,Biologie
+WR,Biologie
+WS,Biologie
+WT,Biologie
+WU,Biologie
+WV,Biologie
+WW,Biologie
+WX,Biologie
+WY,Biologie
+WZ,Biologie
+W,Biologie
+XA,Medizin
+XB,Medizin
+XC,Medizin
+XD,Medizin
+XE,Medizin
+XF,Medizin
+XG,Medizin
+XH,Medizin
+XI,Medizin
+XJ,Medizin
+XK,Medizin
+XL,Medizin
+XM,Medizin
+XN,Medizin
+XO,Medizin
+XP,Medizin
+XQ,Medizin
+XR,Medizin
+XSX,Medizin
+XT,Medizin
+XU,Medizin
+XV,Medizin
+XW,Medizin
+XX,Medizin
+XY,Medizin
+XZ,Medizin
+X ,Medizin
+YA,Medizin
+YB,Medizin
+YC,Medizin
+YD,Medizin
+YE,Medizin
+YF,Medizin
+YG,Medizin
+YH,Medizin
+YI,Medizin
+YJ,Medizin
+YK,Medizin
+YL,Medizin
+YM,Medizin
+YN,Medizin
+YO,Medizin
+YP,Medizin
+YQ,Medizin
+YR,Medizin
+YS,Medizin
+YT,Medizin
+YU,Medizin
+YV,Medizin
+YW,Medizin
+YX,Medizin
+YY,Medizin
+YZ,Medizin
+Y ,Medizin
+ZA,Land- und Forstwirtschaft
+ZB,Land- und Forstwirtschaft
+ZC,Land- und Forstwirtschaft
+ZD,Land- und Forstwirtschaft
+ZE,Land- und Forstwirtschaft
+ZG,Technik
+ZH,Technik
+ZI,Technik
+ZJ,Technik
+ZK,Technik
+ZL,Technik
+ZM,Technik
+ZN,Technik
+ZO,Technik
+ZP,Technik
+ZQ,Technik
+ZR,Technik
+ZS,Technik
+ZX,Sport
+ZY,Sport
