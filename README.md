@@ -6,7 +6,9 @@ in here what you think is relevant. A couple of suggestions
 
 ## Project description
 
-As I'm not the core person of the repository, Johannes should fill this out.
+
+Today's research practices can no longer be reconciled with the representative modes of existing libraries. Colloborative fields connect formerly institutionally and epistemologically separated scientific areas more and more seamlessly. Even if the operational success of scientific disciplines point to the scientific and technical upheavals of modernity, transdisciplinary ways of thinking  in scientific production demonstrate the departure from disciplinary-hierarchical forms of order of knowledge. However, this dynamic emergence of new connections and fields of knowledge can no longer be countered by common means of library classification.
+The aim is therefore to propose an alternative variant for structuring / organizing knowledge for the Volkswagen University Library. In a first step a homogeneous dataset of the library's entities (publications containing an abstract) are after cleaning the data analysed by a NLP-algorithm (Doc2Vec). After reducing the dimensionality of the result the aim is to experiment with visualizing the data.  
 
 ## Code usage
 
